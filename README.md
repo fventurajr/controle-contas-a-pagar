@@ -13,9 +13,10 @@ Avisar a(s) próxima(s) conta(s) a vencer com uma antecedência, alertando por e
 * telefoneCliente
 
 # Background
-| categoria      | descrição  |
-|----------------|------------|
-| front-end      | indefinido |
-| back-end       | Java       |
-| banco de Dados | idefinido  |
-| cliente        | eu mesmo   |
+| categoria      | descrição            |
+|----------------|----------------------|
+| front-end      | indefinido           |
+| back-end       | Java                 |
+| banco de Dados | idefinido            |
+| cliente        | Fernando Ventura Jr. |
+| desenvolvedor  | Fernando Ventura Jr. |
