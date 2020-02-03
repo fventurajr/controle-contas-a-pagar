@@ -1,13 +1,13 @@
 # controle-contas-a-pagar
 Avisar a(s) próxima(s) conta(s) a vencer com uma antecedência, alertando por e-mail
 
-# classes
+# Classes de Negócio
 ## Conta
 * descrição
 * categoriaConta
 * diaVencimento
 * valorEstimado(R$)
-## Usuário
+## Cliente
 * nomeCliente
 * emailCliente
 * telefoneCliente
@@ -15,7 +15,7 @@ Avisar a(s) próxima(s) conta(s) a vencer com uma antecedência, alertando por e
 # Background
 | categoria      | descrição  |
 |----------------|------------|
-| Front-end      | indefinido |
-| Back-end       | Java       |
-| Banco de Dados | idefinido  |
-| Cliente        | eu mesmo   |
+| front-end      | indefinido |
+| back-end       | Java       |
+| banco de Dados | idefinido  |
+| cliente        | eu mesmo   |
